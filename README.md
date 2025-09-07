@@ -1,4 +1,7 @@
 
+This project was designed with the intent of connecting and querying a MSSQL database 
+
+
 ## Setup project
 - start vscode
 #### In a terminal session

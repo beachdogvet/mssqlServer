@@ -54,6 +54,6 @@ queryDatabase();
 If you get database connection errors:
 - SQL Server must have TCP/IP enabled.
 - In SQL Server Configuration Manager
-    > Go to SQL Server Network Configuration > Protocols for MSSQLSERVER
-    Enable TCP/IP
-    Restart SQL Server service
+    > - Go to SQL Server Network Configuration > Protocols for MSSQLSERVER
+    > - Enable TCP/IP
+    > - Restart SQL Server service
